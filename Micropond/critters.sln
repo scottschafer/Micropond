@@ -1,0 +1,10 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{059D6162-CD51-11D0-AE1F-00A0C90FFFC3}") = "critters", "critters.dsp", "{7EF9E2A5-19CA-4B89-90CA-C1625AB4ACAE}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
